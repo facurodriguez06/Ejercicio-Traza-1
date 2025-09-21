@@ -1,4 +1,4 @@
-###P aís–Provincia–Localidad–Domicilio + Empresa/Sucursal (Java + Lombok)
+### País–Provincia–Localidad–Domicilio + Empresa/Sucursal (Java + Lombok)
 
 Proyecto educativo en Java que implementa el diagrama dado con encapsulación y multiplicidades usando HashSet. La demo en App.java crea datos (Argentina → Buenos Aires/Mendoza → localidades → domicilios → sucursales → empresas) y ejecuta un CRUD básico de Empresa.
 
